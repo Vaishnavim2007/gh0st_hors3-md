@@ -6,4 +6,4 @@ METHODS: <br/>
 •	After that we convert this texts into normal strings .The converted texts will be the flag <br/>
 WHAT I LEARNT: <br/>
 •	Can bus is a communication protocol used in automobiles to allow microcontrollers and devices to communicate with each other without a host computer <br/>
-•	  Understand how CAN bus systems operate in vehicles and how attackers or analysts may monitor or manipulate these communications <br/>
+•	  Understood how CAN bus systems operate in vehicles and how attackers or analysts may monitor or manipulate these communications <br/>
